@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+  justify-content: space-between;
+  height: 300px;
+}
+.boxitem {
+  height: 70px;
+  width: 70px;
+  border: thick dotted blue;
+}
+.box1 {background: #aca5db;}
+.box2 {background: #6ba4cc;}
+.box3 {background: #ccc96b;}
+.box4 {background: #6bcca5;}
