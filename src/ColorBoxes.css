@@ -10,7 +10,7 @@
   width: 70px;
   border: thick dotted blue;
 }
-.box1 {background: #aca5db;}
-.box2 {background: #6ba4cc;}
-.box3 {background: #ccc96b;}
-.box4 {background: #6bcca5;}
+.box1 {background-color: #aca5db;}
+.box2 {background-color: #6ba4cc;}
+.box3 {background-color: #ccc96b;}
+.box4 {background-color: #6bcca5;}

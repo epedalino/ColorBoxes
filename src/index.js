@@ -5,9 +5,6 @@ import ColorBoxes from './ColorBoxes';
 const App = () => {
   return (
     <div>
-      <h1>Entropy - the natural course for colors!</h1>
-	    <label>My chosen color is: </label>
-      <input type="text" id="chosenColor" value=""/>
       <ColorBoxes />
     </div>
   );
