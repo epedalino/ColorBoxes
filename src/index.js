@@ -1,11 +1,13 @@
 import React, {useState} from 'react';
 import ReactDOM from 'react-dom';
 import ColorBoxes from './ColorBoxes';
+import ColorboxesUseRef from './ColorboxesUseRef';
 
 const App = () => {
   return (
     <div>
       <ColorBoxes />
+      <ColorboxesUseRef />
     </div>
   );
 };
