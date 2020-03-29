@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/ColorBoxes/static/css/main.bdfe7f16.chunk.css",
-    "main.js": "/ColorBoxes/static/js/main.dcd58690.chunk.js",
-    "main.js.map": "/ColorBoxes/static/js/main.dcd58690.chunk.js.map",
+    "main.js": "/ColorBoxes/static/js/main.94e3ddeb.chunk.js",
+    "main.js.map": "/ColorBoxes/static/js/main.94e3ddeb.chunk.js.map",
     "runtime-main.js": "/ColorBoxes/static/js/runtime-main.579ee89c.js",
     "runtime-main.js.map": "/ColorBoxes/static/js/runtime-main.579ee89c.js.map",
-    "static/js/2.efcba561.chunk.js": "/ColorBoxes/static/js/2.efcba561.chunk.js",
-    "static/js/2.efcba561.chunk.js.map": "/ColorBoxes/static/js/2.efcba561.chunk.js.map",
+    "static/js/2.3839cc30.chunk.js": "/ColorBoxes/static/js/2.3839cc30.chunk.js",
+    "static/js/2.3839cc30.chunk.js.map": "/ColorBoxes/static/js/2.3839cc30.chunk.js.map",
     "index.html": "/ColorBoxes/index.html",
-    "precache-manifest.e3e36d03779f572d2ee2075eab7b1839.js": "/ColorBoxes/precache-manifest.e3e36d03779f572d2ee2075eab7b1839.js",
+    "precache-manifest.c1154a703793497a6555da25aec5b808.js": "/ColorBoxes/precache-manifest.c1154a703793497a6555da25aec5b808.js",
     "service-worker.js": "/ColorBoxes/service-worker.js",
     "static/css/main.bdfe7f16.chunk.css.map": "/ColorBoxes/static/css/main.bdfe7f16.chunk.css.map",
-    "static/js/2.efcba561.chunk.js.LICENSE.txt": "/ColorBoxes/static/js/2.efcba561.chunk.js.LICENSE.txt"
+    "static/js/2.3839cc30.chunk.js.LICENSE.txt": "/ColorBoxes/static/js/2.3839cc30.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.579ee89c.js",
-    "static/js/2.efcba561.chunk.js",
+    "static/js/2.3839cc30.chunk.js",
     "static/css/main.bdfe7f16.chunk.css",
-    "static/js/main.dcd58690.chunk.js"
+    "static/js/main.94e3ddeb.chunk.js"
   ]
 }
